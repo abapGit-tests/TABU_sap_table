@@ -1,2 +1,5 @@
-# TABU
-Table content from SAP table (requires EXIT to allow RSADMIN table to be deserialized!)
+# TABU SAP table
+
+SAP table RSADMIN with one record
+
+Note: Requires EXIT to allow RSADMIN table to be deserialized!
