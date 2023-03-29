@@ -1,0 +1,8 @@
+{
+  "name": "RSADMIN",
+  "skip_initial": false,
+  "type": "TABU",
+  "where": [
+    "object = 'ZABAPGIT_TEST'"
+  ]
+}
